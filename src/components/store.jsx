@@ -44,9 +44,9 @@ function store() {
             </ul>
             <p className="address mb-5">
               <em>
-                <strong>1116 Orchard Street</strong>
+                <strong>Rishikesh</strong>
                 <br />
-                Golden Valley, Minnesota
+                Uttarakhand India
               </em>
             </p>
             <p className="mb-0">
@@ -54,7 +54,7 @@ function store() {
                 <em>Call Anytime</em>
               </small>
               <br />
-              (317) 585-8468
+              +91 (8394834953)
             </p>
           </div>
         </div>

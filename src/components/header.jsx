@@ -6,9 +6,9 @@ function header() {
     <header>
   <h1 className="site-heading text-center text-faded d-none d-lg-block">
     <span className="site-heading-upper text-primary mb-3">
-      A Free Bootstrap Business Theme
+      Coffee-Junction
     </span>
-    <span className="site-heading-lower">Business Casual</span>
+    <span className="site-heading-lower">Your Buddy</span>
   </h1>
 </header>
   {/* Navigation*/}
@@ -18,7 +18,7 @@ function header() {
         className="navbar-brand text-uppercase fw-bold d-lg-none"
         href="index.html"
       >
-        Start Bootstrap
+        Coffee-Junction
       </a>
       <button
         className="navbar-toggler"
